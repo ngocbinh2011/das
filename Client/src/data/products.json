@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Komi - Nữ Thần Sợ Giao Tiếp",
+        "price": "1.000 đ",
+        "originalPrice": "25.000 đ",
+        "discount": "-96%",
+        "sold": 21,
+        "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244872453.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Thám Tử Lừng Danh Conan",
+        "price": "27.500 đ",
+        "originalPrice": "55.000 đ",
+        "discount": "-50%",
+        "sold": 20,
+        "image": "https://cdn0.fahasa.com/media/catalog/product/t/i/tieu-thuyet_tham-tu-lung-danh-conan_ngoi-sao-5-canh-1-trieu-do_bia.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Boardgame Thẻ Bài Chúa Tể Meme",
+        "price": "79.000 đ",
+        "originalPrice": "179.000 đ",
+        "discount": "-55%",
+        "sold": 19,
+        "image": "https://cdn0.fahasa.com/media/catalog/product/d/n/dntttttuntitled.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Harry Potter và Hòn Đá Phù Thủy",
+        "price": "150.000 đ",
+        "originalPrice": "300.000 đ",
+        "discount": "-50%",
+        "sold": 50,
+        "image": "https://cdn0.fahasa.com/media/catalog/product/c/h/chemta-bino_bia1.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Sách Tô Màu Dành Cho Người Lớn",
+        "price": "45.000 đ",
+        "originalPrice": "90.000 đ",
+        "discount": "-50%",
+        "sold": 30,
+        "image": "https://cdn0.fahasa.com/media/catalog/product/b/_/b_a-1-tr_n-l_n-m_i-nh_-_-kh_c-2.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Truyện Cổ Tích Việt Nam",
+        "price": "60.000 đ",
+        "originalPrice": "120.000 đ",
+        "discount": "-50%",
+        "sold": 40,
+        "image": "https://cdn0.fahasa.com/media/catalog/product/n/x/nxbtre_full_09462021_024609.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Bí Kíp Luyện Rồng",
+        "price": "80.000 đ",
+        "originalPrice": "160.000 đ",
+        "discount": "-50%",
+        "sold": 25,
+        "image": "https://cdn0.fahasa.com/media/catalog/product/c/h/chemta-bino_bia1.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Công Chúa Ngủ Trong Rừng",
+        "price": "70.000 đ",
+        "originalPrice": "140.000 đ",
+        "discount": "-50%",
+        "sold": 35,
+        "image": "https://cdn0.fahasa.com/media/catalog/product/n/x/nxbtre_full_09462021_024609.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Chuyện Tình Paris",
+        "price": "90.000 đ",
+        "originalPrice": "180.000 đ",
+        "discount": "-50%",
+        "sold": 45,
+        "image": "https://cdn0.fahasa.com/media/catalog/product/t/i/tieu-thuyet_tham-tu-lung-danh-conan_ngoi-sao-5-canh-1-trieu-do_bia.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Làm Chủ Tư Duy, Thay Đổi Vận Mệnh",
+        "price": "100.000 đ",
+        "originalPrice": "200.000 đ",
+        "discount": "-50%",
+        "sold": 60,
+        "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244872453.jpg"
+    }
+]
